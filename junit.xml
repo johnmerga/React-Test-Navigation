@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="6" time="1.68">
+  <testsuite name="undefined" errors="0" failures="6" skipped="0" timestamp="2024-11-07T11:01:17" time="1.015" tests="6">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.033">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  HOME PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:25:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" News tab works" name=" News tab works" time="0.014">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  NEWS PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:30:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" Contact tab works" name=" Contact tab works" time="0.006">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  CONTACT PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:35:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" About tab works" name=" About tab works" time="0.005">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  ABOUT PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:40:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" Home tab works" name=" Home tab works" time="0.009">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  HOME PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:45:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" Navigation works" name=" Navigation works" time="0.014">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  ABOUT PAGE
+Received:
+
+    at Object.&lt;anonymous&gt; (/home/yo/Desktop/test/react challenges/React Test - Navigation/src/App.test.js:50:22)
+    at Object.asyncJestTest (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/yo/Desktop/test/react challenges/React Test - Navigation/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
